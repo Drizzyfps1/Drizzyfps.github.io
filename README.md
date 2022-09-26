@@ -1,7 +1,7 @@
 
 .Ola 👋
 .Meu nome é: Gustavo Henrique
-.Tenho: 16 anos 
+.Tenho: 17 anos 
 .Gosto muito de internet,Tecnologia
 
 🔭Trabalho em uma empresa de cadeados,fechaduras,maçaneta,chaves etc... 
